@@ -62,8 +62,19 @@ const textNodes = [
             text: '"imagine being daniel"',
             options:[
                 {
-                    text: 'aw, i suck?',
-                    nextText: 6
+                    text: 'aw, do i suck?',
+                    nextText: 3
+
+                },
+            ]
+        },
+        {
+            id: 3,
+            text: '"you suck massive dongs"',
+            options:[
+                {
+                    text: 'damn',
+                    nextText: 3
 
                 },
             ]
